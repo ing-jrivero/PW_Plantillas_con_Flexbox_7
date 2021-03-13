@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    border: 10px solid rosybrown;
+    width: 100%;
+    height: 15%;
+}
+#centro{
+    border: 10px solid greenyellow;
+    width: 100%;
+    height: 70%;
+}
+#arriba{
+    border: 10px solid gold;
+    width: 100%;
+    height: 65%;
+}
+#abajo{
+    border: 10px solid lightcoral;
+    width: 100%;
+    height: 35%;
+    display: flex;
+}
+
+.izquierda{
+    border: 10px solid red;
+    width: 33.3%;
+    height: 100%;
+}
+.medio{
+    border: 10px solid green;
+    width: 33.3%;
+    height: 100%;
+}
+
+.derecha{
+    border: 10px solid blue;
+    width: 33.3%;
+    height: 100%;
+}
+
+footer{
+    border: 10px solid royalblue;
+    width: 100%;
+    height: 15%;
+}
